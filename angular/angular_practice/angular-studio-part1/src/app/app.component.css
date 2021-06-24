@@ -1,4 +1,18 @@
 .box {
     display: flex;
     padding: 10px;
- }
+    border: 2px solid palevioletred;
+    width: fit-content;
+    border-radius: 10px;
+}
+
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.appBody {
+    border: 1px black dotted;
+    width: fit-content;
+    padding: 40px;
+    
+}
